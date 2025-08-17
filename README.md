@@ -4,6 +4,7 @@ Script to get RSX Info from LV1 Dump
 How to create a LV1 Dump ?
 
 Inset a FAT32 USB Stick into the PS3 and go in th XMB to Network -> Custom Firmware Tools -> Dump Tools -> Dump LV1
+
 The Dump will be automaticly saved on the USB Stick.
 
 How to check the RSX ?
